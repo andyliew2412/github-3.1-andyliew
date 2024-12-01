@@ -47,7 +47,7 @@ The commands are grouped into logical sections:
 | git commit -m "[message]"	| Commit staged changes with a message |
 | git commit -am "[message]"	| Add modified files and commit in one step |
 
-* Branch Management
+# Branch Management
 | Command	| Description |
 | ------ | ------ |
 | git branch	| List all local branches |
