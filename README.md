@@ -1,13 +1,15 @@
 # Daily Commands
 | Command	| Description |
+| ------ | ------ |
 | git init	| Start a new git repository |
 | git clone [url]	| Clone a repository |
-git status	Check current state
-git add .	Stage all changes
-git commit -m "[message]"	Commit changes
-git push	Upload to remote
-git pull	Download from remote
-Branch Operations
+| git status	| Check current state |
+| git add .	| Stage all changes |
+| git commit -m "[message]"	| Commit changes |
+| git push	| Upload to remote |
+| git pull	| Download from remote |
+
+# Branch Operations
 Command	Description
 git branch	List branches
 git checkout -b [branch]	Create & switch to new branch
